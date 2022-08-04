@@ -1,7 +1,5 @@
 #Exercise 2, finding even or odd
 #Initalising variables
-from tabnanny import check
-
 
 user_number = 0
 #Check is a part of the extras in the exercise, essentially I just need to check if the check is a factor of the number.
